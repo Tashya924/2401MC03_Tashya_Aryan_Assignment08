@@ -4,7 +4,6 @@
 
 **Student:** Tashya Aryan  
 **Roll Number:** 2401MC03  
-**Repository:** [2401MC03_Tashya_Aryan_Assignment08](https://github.com/Tashya924/2401MC03_Tashya_Aryan_Assignment08)
 
 ## Overview
 
