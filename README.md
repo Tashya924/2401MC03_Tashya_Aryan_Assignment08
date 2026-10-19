@@ -2,7 +2,7 @@
 # Operating Systems Lab — Assignment 8
 ## Memory Management in xv6 (x86)
 
-**Student:** Tashya Aryan  
+**Name:** Tashya Aryan  
 **Roll Number:** 2401MC03  
 
 ## Overview
